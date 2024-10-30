@@ -1,0 +1,19 @@
+img{
+    width: 300px;
+    height: auto;
+    border: 2px solid #007acc;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgba(0,0,0.5);
+    opacity: 0.9;
+    transition: transform 0.3s;
+}
+img:hover{
+    transform: scale(1.1);
+}
+.mainheader{
+    text-align: center;
+    color: blue;
+}
+body{
+    background-color: lightblue;
+}
